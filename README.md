@@ -2,7 +2,7 @@
 to my GitHub page. There's not much on here, and I'm not very active in programming, but you can still see most of my Projects.
 
 ### Who is Drainyyy?
-Yes it's actually Drainyyy with _just_ 3y's. But the GitHub usename Drainyyy was already taken.
+Yes it's actually Drainyyy with _just_ 3 y's. But the GitHub usename Drainyyy was already taken.
 
 Long story short, I am a hobby developer from germany, who is interested in IT security (not much projects on this profile, that cover this interest). Along with the other information in this README, this should be a good summary of myself. If you want to learn more about me, visit [my website](https://drainyyy.xyz).
 
