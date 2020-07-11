@@ -4,7 +4,7 @@ to my GitHub page. There's not much on here, and I'm not very active in programm
 ### Who is Drainyyy?
 Yes it's actually Drainyyy with _just_ 3 y's. But the GitHub usename Drainyyy was already taken.
 
-Long story short, I am a hobby developer from germany, who is interested in IT security (not much projects on this profile, that cover this interest). Along with the other information in this README, this should be a good summary of myself. If you want to learn more about me, visit [my website](https://drainyyy.xyz).
+Long story short, I am a hobby developer from germany, who is interested in IT security (not much projects on this profile, that cover this interest). Along with the other information in this README, this should be a good summary of myself. If you want to learn more about me, visit [my website](https://www.drainyyy.xyz).
 
 ### What to find here
 As I mentioned, there's not much you can find. But I can tell you about the few things that are one here. Most of my stuff is written in python. And you can find the code for my Discord bot on here (probably one of the very few projects that are "finished").
