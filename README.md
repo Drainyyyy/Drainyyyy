@@ -19,3 +19,7 @@ If you want to contact me, you can contact me via all the linked ways on [my web
 
 ### Status
 You can check the status of each project on the respective GitHub page / the project page on my website (can be outdated / not added (oops)). If you want to know the status and it's not shown at any project page, just contact me.
+
+### Note
+---
+This account contains a lot of unfinished projects, which seem pretty messy (I really like to leave TODO notes all over my code). Most of these projects are no longer worked on (at least for now) and some are old. I know this account has not much pontential as something like a portfolio (especially because there are very few projects, which have good code quality). I will rework some projects in the future and also continue working on the active ones.
