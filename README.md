@@ -1,4 +1,4 @@
-<header align="center"><img src=res/logo.png height=64px>
+<div align="center"><img src=res/logo.png height=64px>
 <h3><b>Hey there</b>, I'm Jörg👋</h3>
 
 <p>Welcome. I'm a 17 y/o student from Bavaria, Germany with a preference for web programming and back-end development. I am also very interested in security engineering, data transfer and performance enhancement.<br \>
@@ -11,7 +11,7 @@ Apart from programming, I am also interested in sports, graphic design and Netfl
 <a href=http://dc.drainyyy.xyz>
     <img alt="Discord" src="https://img.shields.io/discord/544615795754270731?color=white&label=Discord" \>
 </a>
-</header>
+</div>
 
 ---
 
