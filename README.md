@@ -17,11 +17,13 @@ Apart from programming, I am also interested in sports, graphic design and Netfl
 
 ### **Some information about myself**
 
+- 🙋‍♂️ 17 y/o student from Bavaria, Germany
+- 🖥️ Programming since I was 13 years old
 - ⏳ I have more unfinished projects than finished projects
-- 🔑 Learning about network security
+- 🔑 Currently learning about network security
 - 🐍 Mostly using Python
 - 💭 Infinite number of project ideas
-- 📭 Feel free to [contact me](#contact)
+- 📭 If you have questions, feel free to [contact me](#contact), I'm always happy to help
 
 ---
 
@@ -29,9 +31,9 @@ Apart from programming, I am also interested in sports, graphic design and Netfl
 
 #### 📋 **Licensing and open source**
 
-I am a huge fan of using other people's code. So of course I support the idea of open source. Most of my active projects are publicly available on GitHub and most of them are licensed with a non-restrictive license like the MIT license, so feel free to use some of my code as well.
+I am a huge fan of using other people's code. So of course I support the idea of open source. Most of my active projects are publicly available on GitHub and almost all of them are licensed with a non-restrictive license like the MIT license, so feel free to use some of my code as well.
 
-#### 🏷️ **My favorite (finished) projects**
+#### 🏷️ **My favorite projects**
 
 <div align="center">
     <a href="https://github.com/Drainyyyy/ypc-api/tree/dev">
