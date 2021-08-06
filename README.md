@@ -1,25 +1,64 @@
-## Welcome👋
-to my GitHub page. There's not much on here, and I'm not very active in programming, but you can still see most of my Projects.
+<header align="center"><img src=res/logo.png height=64px>
+<h3><b>Hey there</b>, I'm Jörg👋</h3>
 
-### Who is Drainyyy?
-Yes it's actually Drainyyy with _just_ 3 y's. But the GitHub usename Drainyyy was already taken.
+<p>Welcome. I'm a 17 y/o student from Bavaria, Germany with a preference for web programming and back-end development. I am also very interested in security engineering, data transfer and performance enhancement.<br \>
+Apart from programming, I am also interested in sports, graphic design and Netflix series (especially sitcoms).</p>
 
-Long story short, I am a hobby developer from germany, who is interested in IT security (not much projects on this profile, that cover this interest). Along with the other information in this README, this should be a good summary of myself. If you want to learn more about me, visit [my website](https://www.drainyyy.xyz).
+<img alt="Visitors" src="https://badges.pufler.dev/visits/Drainyyyy/Drainyyyy?color=white">
+<a href=http://www.drainyyy.xyz>
+    <img alt="Website" src="https://img.shields.io/website?down_message=offline&label=Website&up_color=white&up_message=click%20here&url=http%3A%2F%2Fwww.drainyyy.xyz" \>
+</a>
+<a href=http://dc.drainyyy.xyz>
+    <img alt="Discord" src="https://img.shields.io/discord/544615795754270731?color=white&label=Discord" \>
+</a>
+</header>
 
-### What to find here
-As I mentioned, there's not much you can find. But I can tell you about the few things that are one here. Most of my stuff is written in python. And you can find the code for my Discord bot on here (probably one of the very few projects that are "finished").
-
-I also like to make useful libraries for programmers (see e.g. [minimalLog](https://github.com/Drainyyyy/minimalLog)).
-
-#### License
-I am a fan of using other ones code. But there have to be rules and that's defined in the license. Most of the time I use the [MIT License](https://choosealicense.com/licenses/mit/), just because I think that it's prety fair. But no matter which license I use, please do not violate against it's specifications.
-
-### Contact / Support
-If you want to contact me, you can contact me via all the linked ways on [my website](https://drainyyy.xyz/contact). This includes Discord, Email and maybe more. When reporting something like a bug, please make sure to give me enough information to understand what you mean. But you can also contact me if you only have one question.
-
-### Status
-You can check the status of each project on the respective GitHub page / the project page on my website (can be outdated / not added (oops)). If you want to know the status and it's not shown at any project page, just contact me.
-
-### Note
 ---
-This account contains a lot of unfinished projects, which seem pretty messy (I really like to leave TODO notes all over my code). Most of these projects are no longer worked on (at least for now) and some are old. I know this account has not much pontential as something like a portfolio (especially because there are very few projects, which have good code quality). I will rework some projects in the future and also continue working on the active ones.
+
+### **Some information about myself**
+
+- ⏳ I have more unfinished projects than finished projects
+- 🔑 Learning about network security
+- 🐍 Mostly using Python
+- 💭 Infinite number of project ideas
+- 📭 Feel free to [contact me](#contact)
+
+---
+
+### **About my projects**
+
+#### 📋 **Licensing and open source**
+
+I am a huge fan of using other people's code. So of course I support the idea of open source. Most of my active projects are publicly available on GitHub and most of them are licensed with a non-restrictive license like the MIT license, so feel free to use some of my code as well.
+
+#### 🏷️ **My favorite (finished) projects**
+
+<div align="center">
+    <a href="https://github.com/Drainyyyy/ypc-api/tree/dev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drainyyyy&repo=ypc-api&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Drainyyyy/minimalLog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drainyyyy&repo=minimalLog&theme=tokyonight" />
+    </a>
+</div>
+
+---
+
+### **GitHub Statistics**
+
+<div align="center">
+    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=drainyyyy&show_icons=true&count_private=true&theme=tokyonight" height=160 \>
+    <img alt="GitHub Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drainyyyy&layout=compact&theme=tokyonight&hide=css" height=160>
+</div>
+
+---
+
+### **Contact**
+
+If you have any questions or want to get in touch with me for any other reason you are welcome to contact me in one of the following ways:
+
+- 📧 E-Mail: [contact@drainyyy.xyz][mail]
+- 🗨️ Discord: [Join my Discord server][discord] or add me (Drainyyy#9339)
+
+[mail]: mailto:contact@drainyyy.xyz
+[discord]: http://dc.drainyyy.xyz
