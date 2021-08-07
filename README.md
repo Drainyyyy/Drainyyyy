@@ -15,7 +15,7 @@ Apart from programming, I am also interested in sports, graphic design and Netfl
 
 ---
 
-### **Some information about myself**
+### **Some Information About Myself**
 
 - 🙋‍♂️ 17 y/o student from Bavaria, Germany
 - 🖥️ Programming since I was 13 years old
@@ -27,7 +27,7 @@ Apart from programming, I am also interested in sports, graphic design and Netfl
 
 ---
 
-### **About my projects**
+### **About My projects**
 
 #### 📋 **Licensing and open source**
 
@@ -43,6 +43,10 @@ I am a huge fan of using other people's code. So of course I support the idea of
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drainyyyy&repo=minimalLog&theme=tokyonight" />
     </a>
 </div>
+
+#### 📅 **Recent activity**
+
+<!--START_SECTION:activity-->
 
 ---
 
