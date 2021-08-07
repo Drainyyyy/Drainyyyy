@@ -4,12 +4,12 @@
 <p>Welcome. I'm a 17 y/o student from Bavaria, Germany with a preference for web programming and back-end development. I am also very interested in security engineering, data transfer and performance enhancement.<br \>
 Apart from programming, I am also interested in sports, graphic design and Netflix series (especially sitcoms).</p>
 
-<img alt="Visitors" src="https://badges.pufler.dev/visits/Drainyyyy/Drainyyyy?color=white">
+<img alt="Visitors" src="https://badges.pufler.dev/visits/Drainyyyy/Drainyyyy?color=white&logo=github">
 <a href=http://www.drainyyy.xyz>
-    <img alt="Website" src="https://img.shields.io/website?down_message=offline&label=Website&up_color=white&up_message=click%20here&url=http%3A%2F%2Fwww.drainyyy.xyz" \>
+    <img alt="Website" src="https://img.shields.io/website?down_message=offline&label=Website&up_color=white&up_message=click%20here&url=http%3A%2F%2Fwww.drainyyy.xyz&logo=homeassistantcommunitystore&logoColor=white" \>
 </a>
 <a href=http://dc.drainyyy.xyz>
-    <img alt="Discord" src="https://img.shields.io/discord/544615795754270731?color=white&label=Discord" \>
+    <img alt="Discord" src="https://img.shields.io/discord/544615795754270731?color=white&label=Discord&logo=Discord&logoColor=white" \>
 </a>
 </div>
 
