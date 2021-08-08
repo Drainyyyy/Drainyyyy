@@ -44,7 +44,7 @@ I am a huge fan of using other people's code. So of course I support the idea of
     </a>
 </div>
 
-#### 📅 **Recent activity**
+<!--#### 📅 **Recent activity**
 
 <!--START_SECTION:activity-->
 
