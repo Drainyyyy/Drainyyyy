@@ -1,5 +1,5 @@
 <div align="center"><img src=res/logo.png height=64px>
-<h3><b>Hey there</b>, I'm Jörg👋</h3>
+<h3><b>Hey there</b>, I'm Jörg (a.k.a. Drainyyy)👋</h3>
 
 <p>Welcome. I'm a 17 y/o student from Bavaria, Germany with a preference for web programming and back-end development. I am also very interested in security engineering, data transfer and performance enhancement.<br \>
 Apart from programming, I am also interested in sports, graphic design and Netflix series (especially sitcoms).</p>
