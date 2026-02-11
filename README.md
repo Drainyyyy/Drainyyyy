@@ -1,70 +1,92 @@
-<div align="center"><img src=res/logo.png height=64px>
-<h3><b>Hey there</b>, I'm Jörg (a.k.a. Drainyyy)👋</h3>
+<div align="center">
+  <img src="./res/logo.png" alt="logo" height="72" />
 
-<p>Welcome. I'm a 17 y/o student from Bavaria, Germany with a preference for web programming and back-end development. I am also very interested in security engineering, data transfer and performance enhancement.<br \>
-Apart from programming, I am also interested in sports, graphic design and Netflix series (especially sitcoms).</p>
+  <h2>Jörg R. - Drainyyy</h2>
 
-<img alt="Visitors" src="https://badges.pufler.dev/visits/Drainyyyy/Drainyyyy?color=white&logo=github">
-<a href=http://www.drainyyy.xyz>
-    <img alt="Website" src="https://img.shields.io/website?down_message=offline&label=Website&up_color=white&up_message=click%20here&url=http%3A%2F%2Fwww.drainyyy.xyz&logo=homeassistantcommunitystore&logoColor=white" \>
-</a>
-<a href=http://dc.drainyyy.xyz>
-    <img alt="Discord" src="https://img.shields.io/discord/544615795754270731?color=white&label=Discord&logo=Discord&logoColor=white" \>
-</a>
+  <p>
+    <b>B.Sc. Business Informatics (Wirtschaftsinformatik)</b><br/>
+    Backend Engineering - Security - Data Transfer - Performance
+  </p>
+
+  <p>
+    <a href="mailto:contact@sysroot.net">
+      <img alt="Email" src="https://img.shields.io/badge/Email-contact%40sysroot.net-0f172a?style=flat&logo=maildotru&logoColor=white" />
+    </a>
+    <a href="https://www.cerberus-project.com">
+      <img alt="Website" src="https://img.shields.io/badge/Website-cerberus-project.com-0f172a?style=flat&logo=googlechrome&logoColor=white" />
+    </a>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Drainyyyy&style=flat&color=0f172a" />
+  </p>
 </div>
 
 ---
 
-### **Some Information About Myself**
+## About
 
-- 🙋‍♂️ 17 y/o student from Bavaria, Germany
-- 🖥️ Programming since I was 13 years old
-- ⏳ I have more unfinished projects than finished projects
-- 🔑 Currently learning about network security
-- 🐍 Mostly using Python
-- 💭 Infinite number of project ideas
-- 📭 If you have questions, feel free to [contact me](#contact), I'm always happy to help
+I’m Jörg (“Drainyyy”), 22, based in Bavaria, Germany.  
+I focus on building reliable back-end systems and developer tooling with an emphasis on **security**, **efficient data transfer**, and **performance**.
+
+### What I care about
+- **Pragmatic engineering**: clean interfaces, maintainable code, measurable outcomes
+- **Security-by-default**: least privilege, threat-aware design, sane dependency hygiene
+- **Operational quality**: logs/metrics, predictable deployments, reproducible builds
 
 ---
 
-### **About My projects**
-
-#### 📋 **Licensing and open source**
-
-I am a huge fan of using other people's code. So of course I support the idea of open source. Most of my active projects are publicly available on GitHub and almost all of them are licensed with a non-restrictive license like the MIT license, so feel free to use some of my code as well.
-
-#### 🏷️ **My favorite projects**
+## Selected work
 
 <div align="center">
-    <a href="https://github.com/Drainyyyy/ypc-api/tree/dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drainyyyy&repo=ypc-api&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/Drainyyyy/minimalLog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drainyyyy&repo=minimalLog&theme=tokyonight" />
-    </a>
+  <a href="https://github.com/Drainyyyy/moodle.dl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drainyyyy&repo=moodle.dl&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Drainyyyy/minimalLog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drainyyyy&repo=minimalLog&theme=transparent&hide_border=true" />
+  </a>
 </div>
-
-<!--#### 📅 **Recent activity**
-
-<!--START_SECTION:activity-->
 
 ---
 
-### **GitHub Statistics**
+## Tech snapshot
+
+**Languages:** Python - TypeScript - Java  
+**Focus areas:** APIs - automation - security engineering - performance tuning  
+**Also comfortable with:** Linux - Git - CI/CD - documentation-first workflows
+
+---
+
+## GitHub statistics
 
 <div align="center">
-    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=drainyyyy&show_icons=true&count_private=true&theme=tokyonight" height=160 \>
-    <img alt="GitHub Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drainyyyy&layout=compact&theme=tokyonight&hide=css" height=160>
+  <img
+    height="165"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Drainyyyy&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
+  />
+  <img
+    height="165"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drainyyyy&layout=compact&theme=transparent&hide_border=true"
+  />
+</div>
+
+<div align="center">
+  <img
+    height="165"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Drainyyyy&theme=transparent&hide_border=true"
+  />
+</div>
+
+<div align="center">
+  <img
+    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Drainyyyy&theme=github-compact&hide_border=true"
+  />
 </div>
 
 ---
 
-### **Contact**
+## Contact
 
-If you have any questions or want to get in touch with me for any other reason you are welcome to contact me in one of the following ways:
-
-- 📧 E-Mail: [contact@drainyyy.xyz][mail]
-- 🗨️ Discord: [Join my Discord server][discord] or add me (Drainyyy#9339)
-
-[mail]: mailto:contact@drainyyy.xyz
-[discord]: http://dc.drainyyy.xyz
+- **Email:** [contact@sysroot.net](mailto:contact@sysroot.net)
+- **Website:** https://cerberus-project.com
