@@ -12,8 +12,8 @@
     <a href="mailto:contact@sysroot.net">
       <img alt="Email" src="https://img.shields.io/badge/Email-contact%40sysroot.net-0f172a?style=flat&logo=maildotru&logoColor=white" />
     </a>
-    <a href="https://www.cerberus-project.com">
-      <img alt="Website" src="https://img.shields.io/badge/Website-cerberus-project.com-0f172a?style=flat&logo=googlechrome&logoColor=white" />
+    <a href="https://go.sysroot.net">
+      <img alt="Website" src="https://img.shields.io/badge/Website-go.sysroot.net-0f172a?style=flat&logo=googlechrome&logoColor=white" />
     </a>
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Drainyyyy&style=flat&color=0f172a" />
   </p>
@@ -89,4 +89,4 @@ I focus on building reliable back-end systems and developer tooling with an emph
 ## Contact
 
 - **Email:** [contact@sysroot.net](mailto:contact@sysroot.net)
-- **Website:** https://cerberus-project.com
+- **Website:** https://go.sysroot.net
